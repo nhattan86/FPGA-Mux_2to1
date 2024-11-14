@@ -1,4 +1,4 @@
-# FPGA-Mux_2to1
+# FPGA-Mux_2to1_1bit
 
 This VHDL code implements a **2-to-1 Multiplexer**, a fundamental digital circuit component used to select one of two inputs (`A` or `B`) based on a control signal `s` and output the selected input to `Y`.
 
